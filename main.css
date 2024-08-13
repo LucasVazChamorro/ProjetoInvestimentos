@@ -1,0 +1,61 @@
+
+body{
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #000000d2;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #000000d2;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-ativos .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #b2adaca2;
+}
+
+.section-title {
+    font-family: Pacifico, cursive;
+}
+
+#sobre-a-chamorro-investimentos, #ativos {
+    background-color: #b2adaca2;
+}
+
+.text-colored,
+.highlight {
+    color: #381d1d;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+.nav-ativos .nav-link.active,
+#fale-conosco button {
+    background-color: #000000d2;
+    color: #fff;
+}
+
+.nav-ativos .nav-link:hover {
+    color: #1e1d1d72;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
